@@ -1,3 +1,3 @@
-[master 9f15b78] file 14
- 2 files changed, 5 insertions(+), 3 deletions(-)
- create mode 100755 0x00-shell_basics/14-copy_html
+[master 64abf98] shell basics
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/school.mgc
