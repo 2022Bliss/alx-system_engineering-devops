@@ -1,11 +1,3 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   ../0x00-shell_basics/README.md
-	modified:   README.md
-	modified:   ../README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master 81a398d] 7-file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x02-shell_redirections/7-file
